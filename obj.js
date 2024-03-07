@@ -5,7 +5,7 @@ const ultraman = {
             name: "namex",
             galaxy: "andromeda",
         },
-    }
+    },
     weapons: ["sword", "shiedl"],
     attack: () => {
         console.log("sword attack!");
